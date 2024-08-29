@@ -1,0 +1,12 @@
+[package]
+name = "mapmosaic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fastnbt = "2.5.0"
+flate2 = "1.0.31"
+image = "0.25.2"
+itertools = "0.13.0"
+serde = "1.0.208"
+serde_derive = "1.0.208"
